@@ -8,5 +8,7 @@ __pycache__/
 .vscode/
 
 # DATA & models
-data/
+!data/
+data/raw/
+data/processed/
 models/
