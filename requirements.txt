@@ -3,6 +3,7 @@ numpy
 scikit-learn
 yfinance
 matplotlib
+seaborn
 streamlit
 lxml
 requests
